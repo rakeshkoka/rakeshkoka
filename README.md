@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkoka&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkoka" /> </p>
 
-- 🔭 I am currently interning at **Ramanasoft**
+- 🔭 I am currently working at **Voicegate Technologies**
 
-- 🌱 I’m currently learning **Node JS and Express JS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node js, Express js, Mongodb**
 
-- 📫 How to reach me **rakeshrakhi00344@gmail.com**
+- 📫 How to reach me **rakeshkoka.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
